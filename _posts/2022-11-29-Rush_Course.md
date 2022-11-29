@@ -1,3 +1,5 @@
-Rush Course
-----
+---
+layout: post
+title: Rush Course
+---
 超星刷课: https://wwm.lanzoue.com/iKAZB0h7jk8h
