@@ -4,6 +4,7 @@ title: SoftWare
 Categories: Recourse
 ---	
 [Https://cvmrlut.github.io/-](https://cvmrlut.github.io/-)
+
 Necessary
 	[7z](https://www.7-zip.org/download.html)
 	[VC Redist](https://www.ghxi.com/yxkhj.html)
