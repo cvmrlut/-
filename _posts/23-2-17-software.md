@@ -12,6 +12,16 @@ Necessary
 	[WeMeeting](https://meeting.tencent.com/download)
 	[TIM](https://office.qq.com/download.html)
 
+JS
+	[EnhancedWordHighlight](https://greasyfork.org/scripts/7251)
+	[AC搜索优化](https://greasyfork.org/scripts/14178)
+	[知乎增强](https://greasyfork.org/scripts/419081)
+	[网页宽屏](https://greasyfork.org/scripts/411260)
+	[CSDN优化](https://greasyfork.org/scripts/378351)
+	[SearchEngineJump](https://greasyfork.org/scripts/412245)
+	[百度文库转Word下载](https://greasyfork.org/scripts/405373)
+	[Github加速]
+
 Media
 	[NVIDIA Driver](https://www.nvidia.cn/geforce/drivers)
 	[VLC](https://www.videolan.org/vlc/download-windows.html)
