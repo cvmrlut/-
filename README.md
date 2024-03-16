@@ -36,10 +36,10 @@ Tools
 	[YouDaoDict](https://cidian.youdao.com/index.html?keyfrom=dict_web_product#)
 	[iCiBa](http://cp.iciba.com)
 	[Geogebra](https://wiki.geogebra.org/en/Reference:GeoGebra_Installation)
-  
+
   	[Utools](https://www.u.tools)
 	[Quicker](https://getquicker.net/Download)
-  
+
  	[Geek Uninstaller](https://geekuninstaller.com/download)
 	[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases)
 	[Everything](https://www.voidtools.com/zh-cn/downloads)
