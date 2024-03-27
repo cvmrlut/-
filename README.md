@@ -62,6 +62,7 @@
 - VM17:MC60H-DWHD5-H80U9-6V85M-8280D
 ## Drive
 [NVIDIA Driver](https://www.nvidia.cn/geforce/drivers)
+[WeChatDev](https://developers.weixin.qq.com/community/minihome/question/1225494411287609345?mockCommonUse=1)
 - - -
 <details><summary>Lenovo</summary>
 
